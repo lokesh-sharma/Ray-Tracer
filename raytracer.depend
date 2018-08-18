@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1526376891 source:c:\users\loki\desktop\new folder (3)\raytracer\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Vector.h"
+	"Ray.h"
+	"Camera.h"
+	"Color.h"
+	"PointLight.h"
+	"Sphere.h"
+	"Plane.h"
+
+1526386714 c:\users\loki\desktop\new folder (3)\raytracer\vector.h
+	<cmath>
+	<iostream>
+
+1526230462 c:\users\loki\desktop\new folder (3)\raytracer\ray.h
+	<cmath>
+	"Vector.h"
+
+1526230908 c:\users\loki\desktop\new folder (3)\raytracer\camera.h
+	"Vector.h"
+
+1526382282 c:\users\loki\desktop\new folder (3)\raytracer\color.h
+
+1526237332 c:\users\loki\desktop\new folder (3)\raytracer\pointlight.h
+	"Vector.h"
+	"Color.h"
+
+1526312098 c:\users\loki\desktop\new folder (3)\raytracer\sphere.h
+	"Vector.h"
+	"Color.h"
+	"Object.h"
+
+1526330694 c:\users\loki\desktop\new folder (3)\raytracer\object.h
+	"Vector.h"
+	"Color.h"
+	"Ray.h"
+
+1526322404 c:\users\loki\desktop\new folder (3)\raytracer\plane.h
+	"Object.h"
+	"Vector.h"
+	"Ray.h"
+	"Color.h"
+
+1526338683 source:c:\users\varun\desktop\new folder (3)\raytracer\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Vector.h"
+	"Ray.h"
+	"Camera.h"
+	"Color.h"
+	"PointLight.h"
+	"Sphere.h"
+	"Plane.h"
+
+1526338113 c:\users\varun\desktop\new folder (3)\raytracer\vector.h
+	<cmath>
+	<iostream>
+
+1526181862 c:\users\varun\desktop\new folder (3)\raytracer\ray.h
+	<cmath>
+	"Vector.h"
+
+1526182308 c:\users\varun\desktop\new folder (3)\raytracer\camera.h
+	"Vector.h"
+
+1526333680 c:\users\varun\desktop\new folder (3)\raytracer\color.h
+
+1526188732 c:\users\varun\desktop\new folder (3)\raytracer\pointlight.h
+	"Vector.h"
+	"Color.h"
+
+1526263498 c:\users\varun\desktop\new folder (3)\raytracer\sphere.h
+	"Vector.h"
+	"Color.h"
+	"Object.h"
+
+1526282094 c:\users\varun\desktop\new folder (3)\raytracer\object.h
+	"Vector.h"
+	"Color.h"
+	"Ray.h"
+
+1526273804 c:\users\varun\desktop\new folder (3)\raytracer\plane.h
+	"Object.h"
+	"Vector.h"
+	"Ray.h"
+	"Color.h"
+
